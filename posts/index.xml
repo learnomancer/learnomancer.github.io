@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Learnomancer</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on Learnomancer</description>
+    <generator>Hugo -- 0.125.6</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Animate Multiple Elements with One Trigger across your Storyline 360 Project using Javascript</title>
+      <link>//localhost:1313/posts/one-trigger-to-rule-them-all/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/one-trigger-to-rule-them-all/</guid>
+      <description>Learn how to apply animations across your eLearning project with just one Execute Javascript trigger!
+No Format Painter! No going back to tediously apply animations or states manually.
+In this video tutorial, I&amp;rsquo;ll guide you through the steps to apply hover animations to multiple elements in your Storyline projects using a single master slide trigger.
+This method is perfect for large projects with varied interactive components, ensuring uniformity and saving you tons of time.</description>
+    </item>
+    <item>
+      <title>Pick a Random Sentence from a list in Articulate Storyline 360 with JavaScript</title>
+      <link>//localhost:1313/posts/pick-random-sentence/</link>
+      <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/pick-random-sentence/</guid>
+      <description>In this video tutorial, I&amp;rsquo;ll walk you through the process of creating a dynamic slide in Articulate Storyline 360 where a random sentence from a list appears each time you click a button.
+With just a few lines of JavaScript, you can add an interactive element to your e-learning courses that keeps learners engaged and curious.
+Here&amp;rsquo;s what we&amp;rsquo;ll cover:
+Setting up the slide and button in Storyline Creating a Storyline variable to store the extracted sentence Preparing the text box to display sentences of varying lengths Adding JavaScript to select a random sentence from a list Inserting the extracted sentence back into the Storyline variable -Testing and publishing the slide to see the random sentence generator in action Here&amp;rsquo;s the video Code used 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 var player = GetPlayer(); var sentence = player.</description>
+    </item>
+    <item>
+      <title>Create a Gamified Progress Bar in Articulate Storyline 360 using Javascript</title>
+      <link>//localhost:1313/posts/gamified-progress-bar/</link>
+      <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/gamified-progress-bar/</guid>
+      <description>In this video, we&amp;rsquo;ll go through a bit of a tutorial on how to explore the practical side of gamification by crafting a dynamic progress bar in Articulate Storyline 360 that updates when the user earns points or gains levels.
+The scenario: The user gains some experience points when they&amp;rsquo;re correctly answering a question. When they reach 1000 XP points, they gain a level. I want to show their progress using a progress bar.</description>
+    </item>
+    <item>
+      <title>Dynamic Image Cropping in Storyline 360 with Javascript &amp; GSAP</title>
+      <link>//localhost:1313/posts/dynamic-image-crop/</link>
+      <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/dynamic-image-crop/</guid>
+      <description>In this video tutorial, we find out how to use CSS clip path to change the shape of our images, or rather of our image cropping areas, in Articulate Storyline 360.
+We&amp;rsquo;re going to use Execute Javascript triggers, and, inside them, our code will add clip paths to the pictures. Then, we&amp;rsquo;ll animate those clip paths with the GSAP (Greensock Animation Platform) in order to create a nice effect.
+Although there already are some features available that achieve more or less the same thing in Storyline, it&amp;rsquo;s interesting to see how we can control our animation using Javascript.</description>
+    </item>
+    <item>
+      <title>I cloned a sheep in Articulate Storyline 360</title>
+      <link>//localhost:1313/posts/clone-object-storyline-360/</link>
+      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/clone-object-storyline-360/</guid>
+      <description>In this video tutorial, we use the cloneNode function of Javascript to clone a png image of a sheep. And then we&amp;rsquo;ll move the clones using GSAP to create a nice division animation.
+It was amazing to see that you can actually duplicate elements in Articulate Storyline 360 using Javascript.
+I was inspired by Doctor Strange splitting into multiple clones during the battle with Thanos from Infinity War (lol), and I wondered if we could achieve this effect in Articulate Storyline 360.</description>
+    </item>
+    <item>
+      <title>Interactive Storyline 360: Play and Reverse Animations on Hover with Javascript &amp; GSAP</title>
+      <link>//localhost:1313/posts/play-reverse-animation-hover-storyline-360/</link>
+      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/play-reverse-animation-hover-storyline-360/</guid>
+      <description>In this video tutorial, we&amp;rsquo;ll experiment with event listeners for mouse hover using an execute Javascript trigger in Articulate Storyline 360. These event listeners will allow us to trigger some animations when the mouse hovers over an object, and when the mouse leaves the bounding box of an object.
+We will use these event listeners to play a GSAP animation timeline when we hover the mouse over a png image, then reverse (or rewind) the animation when the mouse no longer hovers on the image.</description>
+    </item>
+    <item>
+      <title>Create a Hidden Object Mini Game in Storyline 360 with Just One Javascript Trigger</title>
+      <link>//localhost:1313/posts/hidden-object-minigame-storyline-360/</link>
+      <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/hidden-object-minigame-storyline-360/</guid>
+      <description>In this video tutorial, we&amp;rsquo;ll explore how to click on objects in Articulate Storyline 360 and register those clicks using mouse click event listeners in Javascript. We&amp;rsquo;re going to click on multiple objects affect their properties, all by using only one trigger - the execute Javascript trigger.
+To exemplify this, I made a hidden objects mini game. In it, you have to click on each of the objects scattered throughout the slide.</description>
+    </item>
+    <item>
+      <title>Dynamic Progress Bar for Any Number of Slides in Storyline 360 using Javascript</title>
+      <link>//localhost:1313/posts/dynamic-progress-bar-storyline-360/</link>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/dynamic-progress-bar-storyline-360/</guid>
+      <description>In this video tutorial, we will explore how to make a progress bar in Articulate Storyline 360.
+Our progress bar will update when we move back and forward through our slides. And, no matter how many slides we have in our project, our progress bar will scale and display the progress accurately.
+The progress bar uses Javascript (GSAP) to animate the shape and makes use of the built-in Storyline variables showing the slide number in the project (Project.</description>
+    </item>
+    <item>
+      <title>Morph Transitions in Storyline 360 with Match Cuts</title>
+      <link>//localhost:1313/posts/fake-morph-storyline-360/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/fake-morph-storyline-360/</guid>
+      <description>In this video tutorial, I try and replicate a morph effect in Articulate Storyline 360 by using match cuts. This is like using a sleight of hand, performing an illusion where one element seems to change shape and become the other.
+When, in fact, all we&amp;rsquo;re doing is cutting in the middle of an animation and inserting another animation in there, and our eye is fooled into thinking that the animation continues seamlessly.</description>
+    </item>
+    <item>
+      <title>Create an image carousel in Articulate Storyline 360</title>
+      <link>//localhost:1313/posts/image-carousel-storyline-360/</link>
+      <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/image-carousel-storyline-360/</guid>
+      <description>In this video tutorial, we will explore how to create an image carousel interaction in Articulate Storyline 360 in several different ways.
+We will use motion paths to move the image carousel when the user presses some buttons, then use Storyline triggers to check for intersection and intersection end in order to clamp the movement of our carousel by hiding the buttons.
+Then, we will explore how to clamp the movement of an image carousel when we use GSAP to animate it.</description>
+    </item>
+    <item>
+      <title>Dynamic Zoom Effects in Storyline 360 using Javascript &amp; GSAP</title>
+      <link>//localhost:1313/posts/dynamic-zoom-storyline-360/</link>
+      <pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/dynamic-zoom-storyline-360/</guid>
+      <description>In this video tutorial, we&amp;rsquo;ll explore how we can zoom in Articulate Storyline 360 by analyzing the options available when using the default way - zoom regions.
+Then, we will explore how to use GSAP to achieve a similar effect by modifying an object&amp;rsquo;s scale.
+We will then control our zoom with buttons that allow us to zoom in and zoom back out to reset the view. And we&amp;rsquo;ll also control our zoomed in image using arrow buttons.</description>
+    </item>
+    <item>
+      <title>Make Objects Follow Your Mouse Cursor in Storyline 360 with JavaScript &amp; GSAP</title>
+      <link>//localhost:1313/posts/object-follow-mouse-cursor-storyline-360/</link>
+      <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/object-follow-mouse-cursor-storyline-360/</guid>
+      <description>In this video tutorial, we will use Javascript and a bit of GSAP to make an Articulate Storyline 360 slide object follow the mouse cursor&amp;rsquo;s position.
+We will use getBoundingClientRect() to get the position of our slide in the viewport, then make sure the satellite moves only when the mouse is within the bounds of the slide.
+Here&amp;rsquo;s the video Code used 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 var player = GetPlayer(); var satellite = document.</description>
+    </item>
+    <item>
+      <title>Storyline 360 Crash Course on animation and interactivity using GSAP &amp; Javascript</title>
+      <link>//localhost:1313/posts/storyline-360-crash-course-javascript-gsap-copy/</link>
+      <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/storyline-360-crash-course-javascript-gsap-copy/</guid>
+      <description>In this video tutorial, we&amp;rsquo;ll go through a few projects that will help us understand how to implement GSAP to create complex animations, emphasis animations and enhanced interactions in Articulate Storyline 360.
+GSAP (Greensock Animation Platform) is a Javascript code library that is already integrated into Storyline, which makes it easier for us to animate our slide objects with code to increase interactivity and perhaps cut down on development time for our e-learning projects.</description>
+    </item>
+    <item>
+      <title>Showing Feedback Checkmarks on Shuffle Answers in Storyline 360</title>
+      <link>//localhost:1313/posts/feedback-checkmarks-shuffle-answers-copy/</link>
+      <pubDate>Fri, 16 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/feedback-checkmarks-shuffle-answers-copy/</guid>
+      <description>In this video tutorial, we&amp;rsquo;ll be exploring what happens when you want to display checkmarks next to each answer in order to provide feedback to your users in Articulate Storyline 360.
+We will use a graded question slide with shuffle answers enabled. Even though our answers are set to a random order every time the question loads, we still want the checkmarks to appear next to their assigned answer.
+We will use a Storyline bug and copy our checkmarks into the normal state of each answer so that they can move when the answer boxes move.</description>
+    </item>
+  </channel>
+</rss>

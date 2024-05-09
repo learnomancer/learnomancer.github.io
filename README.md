@@ -1,2 +1,0 @@
-# learnomancer.github.io
-static

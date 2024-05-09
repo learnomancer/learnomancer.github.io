@@ -1,0 +1,44 @@
+baseURL: ''
+languageCode: en-us
+title: Learnomancer
+theme: PaperMod
+
+params:
+  homeInfoParams:
+    Title: "Welcome"
+    Content: This is a collection of tips, tricks and experiments meant to help you breathe some life into your elearning projects. Support me on Youtube for more content like this.
+  socialIcons:
+    - name: youtube
+      url: "https://www.youtube.com/@learnomancer"
+
+  ShowPostNavLinks: true
+
+  ShowPageNums: true
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    # limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+    keys: ["title", "permalink", "summary", "content"]
+
+
+menu:
+  main:
+    - name: Search
+      url: search/
+      weight: 20
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 30
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+    
